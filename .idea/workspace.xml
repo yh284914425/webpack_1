@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8755776-d185-4d6e-b325-3647506cf653" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.42348284">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret lean-forward="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="a.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/a.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-line="4" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="147">
+                  <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.972d9936d4f9d2c2612f.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dist/css/index.972d9936d4f9d2c2612f.css">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/webpack.config.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="273">
+                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.babelrc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="273">
+                  <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-----------</find>
+      <find>219</find>
+      <find>background-color</find>
+      <find>-</find>
+      <find>&quot;x&quot;</find>
+      <find>mm</find>
+      <find>11111</find>
+      <find>111</find>
+      <find>C</find>
+      <find>c</find>
+      <find>ccc</find>
+      <find>CCC</find>
+      <find>jquer</find>
+      <find>lodas</find>
+      <find>AA</find>
+      <find>require</find>
+      <find>this</find>
+      <find>noGlobal</find>
+      <find>fun</find>
+      <find>auto</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/a.css" />
+        <option value="$PROJECT_DIR$/src/pack.js" />
+        <option value="$PROJECT_DIR$/src/common.js" />
+        <option value="$PROJECT_DIR$/src/b.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/distBabel/a.js" />
+        <option value="$PROJECT_DIR$/test/test.js" />
+        <option value="$PROJECT_DIR$/src/a.js" />
+        <option value="$PROJECT_DIR$/src/index1.js" />
+        <option value="$PROJECT_DIR$/src/index2.js" />
+        <option value="$PROJECT_DIR$/src/menu.js" />
+        <option value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/@babel/polyfill/package.json" />
+        <option value="$PROJECT_DIR$/src/index1.html" />
+        <option value="$PROJECT_DIR$/dist/A.38e70ffd03a0b3157bf4.js" />
+        <option value="$PROJECT_DIR$/dist/A.html" />
+        <option value="$PROJECT_DIR$/dist/ergt.js" />
+        <option value="$PROJECT_DIR$/dist/index1.html" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/dist/index2.html" />
+        <option value="$PROJECT_DIR$/dist/jquery.aeda583a97239779a9ed.js" />
+        <option value="$PROJECT_DIR$/webpack.dll.config.js" />
+        <option value="$PROJECT_DIR$/dll/g.html" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/dist/index.bdffed42c397904c805c.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/fun.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/a.sass" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/index.sass" />
+        <option value="$PROJECT_DIR$/src/a.scss" />
+        <option value="$PROJECT_DIR$/src/index.scss" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="107" />
+    <option name="width" value="1521" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webpack_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DaSheng\Desktop\babelTest\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DaSheng\Desktop\babelTest\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.fun.js">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/babelTest/dist/index.html" />
+    <configuration name="fun.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fun.js" working-dir="$PROJECT_DIR$/src" />
+    <configuration name="index.9186f5335e748e54f79b.chunk.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.9186f5335e748e54f79b.chunk.js" working-dir="$PROJECT_DIR$/dist" />
+    <configuration name="index.bdffed42c397904c805c.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.bdffed42c397904c805c.js" working-dir="$PROJECT_DIR$/dist" />
+    <configuration name="index.f13ad85661fb3b0b96f9.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.f13ad85661fb3b0b96f9.js" working-dir="$PROJECT_DIR$/dist" />
+    <list>
+      <item itemvalue="Node.js.index.f13ad85661fb3b0b96f9.js" />
+      <item itemvalue="Node.js.index.bdffed42c397904c805c.js" />
+      <item itemvalue="Node.js.index.9186f5335e748e54f79b.chunk.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.fun.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.fun.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.index.9186f5335e748e54f79b.chunk.js" />
+        <item itemvalue="Node.js.index.bdffed42c397904c805c.js" />
+        <item itemvalue="Node.js.index.f13ad85661fb3b0b96f9.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8755776-d185-4d6e-b325-3647506cf653" name="Default" comment="" />
+      <created>1556071605365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556071605365</updated>
+      <workItem from="1556071607006" duration="8979000" />
+      <workItem from="1556680430426" duration="5748000" />
+      <workItem from="1556758717049" duration="15029000" />
+      <workItem from="1557035858354" duration="4489000" />
+      <workItem from="1557125388700" duration="8217000" />
+      <workItem from="1557199064238" duration="15201000" />
+      <workItem from="1557317228370" duration="2778000" />
+      <workItem from="1557362464553" duration="2034000" />
+      <workItem from="1557451151505" duration="4389000" />
+      <workItem from="1557534501762" duration="17208000" />
+      <workItem from="1557619673842" duration="15091000" />
+      <workItem from="1557884522058" duration="3958000" />
+      <workItem from="1558098887230" duration="4440000" />
+      <workItem from="1558144510612" duration="10961000" />
+      <workItem from="1558240849861" duration="8035000" />
+      <workItem from="1558327221957" duration="5118000" />
+      <workItem from="1558424844126" duration="7532000" />
+      <workItem from="1558492514686" duration="3141000" />
+      <workItem from="1559279680350" duration="199000" />
+      <workItem from="1559280334034" duration="5899000" />
+      <workItem from="1559355736282" duration="2967000" />
+      <workItem from="1559474966204" duration="9805000" />
+      <workItem from="1559537318790" duration="847000" />
+      <workItem from="1559696644682" duration="357000" />
+      <workItem from="1559697054757" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162489000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12223393" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50105375" side_tool="true" weight="0.43137255" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53267974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49894625" weight="0.36492375" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/vendors~underscore.acd054478b69917b23a6.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/underscore.95eee0a9b4fc4028a494.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/main.8a6138d89f408f0db7be.js" />
+    <entry file="file://$PROJECT_DIR$/dist/vendors~main.d511b844c1cbd84b722b.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/vendors~index.01d9da7037443e95241b.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/main.ea25b147a093e268140b.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.f13ad85661fb3b0b96f9.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.bdffed42c397904c805c.js" />
+    <entry file="file://$PROJECT_DIR$/dist/main.69990433578dac4b7041.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.b5dc1ad456b1747e2cf3.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/manifest.168ab1d9e0389fa38e23.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.51d80c9077390862124e.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.e8be88daabe942972c68.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/manifest.cd3097c7f6294925b66b.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.4d0e41a5ced85a46e326.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.c94bfadaccff247c2c7b.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/vendors.79b5724666220d0d2866.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.4b3246b54516c960cf28.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/manifest.a574bb99079e7f3de988.js" />
+    <entry file="file://$PROJECT_DIR$/dist/vendors.021d78295de5a072d497.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/vendors.0bb2600954f5d074ea4a.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/runtime.bf0159c4d24ed37b45c3.js" />
+    <entry file="file://$PROJECT_DIR$/dist/vendors.ca367ce40ea808b27d97.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/runtime~main.2f0abf1ad947ff8353d8.js" />
+    <entry file="file://$PROJECT_DIR$/dist/runtime~index.5305913e63a513cee60a.js" />
+    <entry file="file://$PROJECT_DIR$/dist/runtime~main.888ccde23e43fd61799b.js" />
+    <entry file="file://$PROJECT_DIR$/dist/runtime~index.78a7c176b08118660c42.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.9186f5335e748e54f79b.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fun.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.bde79b0a29f481f398df.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.cb84cd74f4c3c7fc24df.css" />
+    <entry file="file://$PROJECT_DIR$/dist/index.511ce06e32feb64c46b4.css" />
+    <entry file="file://$PROJECT_DIR$/dist/index.eb483c3661a59835414f.css" />
+    <entry file="file://$PROJECT_DIR$/dist/index.ca202243675f7675a62b.chunk.js" />
+    <entry file="file://$PROJECT_DIR$/dist/0.40b87cda09e5d0d404b2.css" />
+    <entry file="file://$PROJECT_DIR$/dist/runtime.7cc2923c6eef5d2507f5.js" />
+    <entry file="file://$PROJECT_DIR$/dist/0.5f282b0e96ea8e5999bd.css" />
+    <entry file="file://$PROJECT_DIR$/dist/0.0dbb81a3924316c5ed35.css" />
+    <entry file="file://$PROJECT_DIR$/dist/0.9b25ec47a1168fcdc23e.css" />
+    <entry file="file://$PROJECT_DIR$/dist/0.a9a4aa8468731201a60b.css" />
+    <entry file="file://$PROJECT_DIR$/src/a.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/0.245ec2b887ac4477bbb3.css" />
+    <entry file="file://$PROJECT_DIR$/src/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/index.972d9936d4f9d2c2612f.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.dll.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
